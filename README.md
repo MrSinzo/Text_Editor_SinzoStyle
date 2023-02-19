@@ -12,7 +12,7 @@ SO THAT my website can handle large amounts of unstructured data
 
 ## Table of contents
 
-1 [What is it?](#what is it)
+1 [What is it?](#whatisit)
 ### Why did I make this?
 ### How did I go about building this?
 ### Video Walkthrough
@@ -33,7 +33,7 @@ SO THAT my website can handle large amounts of unstructured data
 
 
 
-## What is it? <a name="what is it"></a>
+## What is it? <a name="whatisit"></a>
 This is a simple little backend API themed around the usage of a social network. 
 
 I mainly needed to test my own skills and methods,but figured this maybe helpful for me or others trying to set up simple applications, and desire a community interaction element.I mainly needed to test my own skills and methods,but figured this maybe helpful for me or others trying to set up simple applications, and desire a community interaction element.I mainly needed to test my own skills and methods,but figured this maybe helpful for me or others trying to set up simple applications, and desire a community interaction element.I mainly needed to test my own skills and methods,but figured this maybe helpful for me or others trying to set up simple applications, and desire a community interaction element.I mainly needed to test my own skills and methods,but figured this maybe helpful for me or others trying to set up simple applications, and desire a community interaction element.I mainly needed to test my own skills and methods,but figured this maybe helpful for me or others trying to set up simple applications, and desire a community interaction element.I mainly needed to test my own skills and methods,but figured this maybe helpful for me or others trying to set up simple applications, and desire a community interaction element.I mainly needed to test my own skills and methods,but figured this maybe helpful for me or others trying to set up simple applications, and desire a community interaction element.I mainly needed to test my own skills and methods,but figured this maybe helpful for me or others trying to set up simple applications, and desire a community interaction element.I mainly needed to test my own skills and methods,but figured this maybe helpful for me or others trying to set up simple applications, and desire a community interaction element.I mainly needed to test my own skills and methods,but figured this maybe helpful for me or others trying to set up simple applications, and desire a community interaction element.
