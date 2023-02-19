@@ -12,43 +12,27 @@ SO THAT my website can handle large amounts of unstructured data
 
 ## Table of contents
 
-1 [What is it?](#whatisit)
-### Why did I make this?
-### How did I go about building this?
-### Video Walkthrough
-### Credits and Licenses
+## [What is it?](#what)
+## [Why did I make this?](#why)
+### [How did I go about building this?](#how)
+### [Video Walkthrough](#example)
+### [Credits and Licenses](#creds)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## What is it? <a name="whatisit"></a>
+## What is it? <a name="what"></a>
 This is a simple little backend API themed around the usage of a social network. 
 
-I mainly needed to test my own skills and methods,but figured this maybe helpful for me or others trying to set up simple applications, and desire a community interaction element.I mainly needed to test my own skills and methods,but figured this maybe helpful for me or others trying to set up simple applications, and desire a community interaction element.I mainly needed to test my own skills and methods,but figured this maybe helpful for me or others trying to set up simple applications, and desire a community interaction element.I mainly needed to test my own skills and methods,but figured this maybe helpful for me or others trying to set up simple applications, and desire a community interaction element.I mainly needed to test my own skills and methods,but figured this maybe helpful for me or others trying to set up simple applications, and desire a community interaction element.I mainly needed to test my own skills and methods,but figured this maybe helpful for me or others trying to set up simple applications, and desire a community interaction element.I mainly needed to test my own skills and methods,but figured this maybe helpful for me or others trying to set up simple applications, and desire a community interaction element.I mainly needed to test my own skills and methods,but figured this maybe helpful for me or others trying to set up simple applications, and desire a community interaction element.I mainly needed to test my own skills and methods,but figured this maybe helpful for me or others trying to set up simple applications, and desire a community interaction element.I mainly needed to test my own skills and methods,but figured this maybe helpful for me or others trying to set up simple applications, and desire a community interaction element.I mainly needed to test my own skills and methods,but figured this maybe helpful for me or others trying to set up simple applications, and desire a community interaction element.
 
-## Why did I make this?
+## Why did I make this? <a name="why"></a>
 I mainly needed to test my own skills and methods,but figured this maybe helpful for me or others trying to set up simple applications, and desire a community interaction element.
 
 
-## How did I go about building this?
+## How did I go about building this? <a name="how"></a>
 This was rather an awkward learning curve for me as I was getting use to the routing syntax before ES6 came out. That being said, I used ExpressJs and Mongoose, and a good chunk of javascript to create this little do-dad.
 
-## Video Walkthrough
-[Video Walkthrough link below!](https://drive.google.com/file/d/19RADNz7FE2dXNYvmiop9gVAJxX_apYNc/view?usp=share_link)
+## Video Walkthrough <a name="example"></a>
+[Video Walkthrough link!](https://drive.google.com/file/d/19RADNz7FE2dXNYvmiop9gVAJxX_apYNc/view?usp=share_link)
 
-## Credits and Licenses
+## Credits and Licenses <a name="creds"></a>
 Using MIT License [Check it here!](https://opensource.org/licenses/MIT)
 
 Creator- Kyle Feldman - [LinkedIn Profile Link](https://www.linkedin.com/in/kyle-feldman-427b5624b)
