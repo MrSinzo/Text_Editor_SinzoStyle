@@ -19,9 +19,9 @@ module.exports = () => {
     },
     plugins: [
       new HtmlWebpackPlugin({
-        template: "./index.html",
         filename: 'index.html',
-        // title: "HtmlWebpackPlugin",
+        template: "./index.html",
+        title: "html-webpack-plugin"
       }),
       new InjectManifest({
         swSrc: "./src-sw.js",
